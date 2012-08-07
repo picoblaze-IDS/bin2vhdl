@@ -22,7 +22,7 @@ convert it into a VHDL language, and output the result of this convertion
 on the standart output. So then you just needed to copy / paste the result
 in your PicoBlaze program.
 
-./bin2VHDL binary_file
+    ./bin2VHDL binary_file
 
 - On Netbeans, to specify which file you gonna use, you have to right clic
 on your project, then go into the "properties", then go to "run" tab, and 
@@ -37,14 +37,14 @@ to use the whole java part.
 
 ## Contact
 
-David Carnot
-dc386@kent.ac.uk
+    David Carnot
+    dc386@kent.ac.uk
 
-Jean-Charles Le Goff
-jcl28@kent.ac.uk
+    Jean-Charles Le Goff
+    jcl28@kent.ac.uk
 
-Valentin Briand
-vb86@kent.ac.uk
+    Valentin Briand
+    vb86@kent.ac.uk
 
-Michael Bishaey
-mb551@kent.ac.uk
+    Michael Bishaey
+    mb551@kent.ac.uk
