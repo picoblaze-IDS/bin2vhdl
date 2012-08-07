@@ -17,9 +17,9 @@ parameter, into a VHDL language.
 ## How to use it
 
 The Bin2VHDL program is very simple to understand, the only thing that you
-need to give, it is the binary file, then the program with automatically 
+need to give, is the binary file, then the program will automatically 
 convert it into a VHDL language, and output the result of this convertion
-on the standart output. So then you just needed to copy / paste the result
+on the standart output. So then you just need to copy / paste the result
 in your PicoBlaze program.
 
     ./bin2VHDL binary_file
