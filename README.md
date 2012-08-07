@@ -11,7 +11,7 @@
 This README file details how to run a Bin2VHDL Program on a windows Operating
 System.
 This program is used to convert the binary packet that it will receive in 
-parameter, into a VHDL language. It have been write in Java language.
+parameter, into a VHDL language. It was written in Java language.
 
 
 ## How to use it
