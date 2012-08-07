@@ -1,9 +1,9 @@
 ## Programs information
 
-From: University of Kent
-Name: Bin2VHDL
-Language: Java
-Date: August 2012
+    From: University of Kent
+    Name: Bin2VHDL
+    Language: Java
+    Date: August 2012
 
 
 ## Description
