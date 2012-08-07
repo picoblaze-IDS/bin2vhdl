@@ -31,7 +31,7 @@ specify the name of the file into the "Arguments field.
 
 ## Further information
 
-This program is now no more used as a single program, we incorporated it
+This program is now, no more used as a single program, we incorporated it
 into the PicoBlazePacketForger, in order to be more easy and relevant
 to use the whole java part.
 
